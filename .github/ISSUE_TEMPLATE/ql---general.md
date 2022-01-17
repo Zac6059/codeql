@@ -1,3 +1,4 @@
+https://github.com/github/codeql/tree/github:main
 ---
 name: General issue
 about: Tell us if you think something is wrong or if you have a question
